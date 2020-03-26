@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Halal-v1",
+    "slug": "halal-v1",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://apis.soleet.my/fn/2019/11/25/064c119f-8ec2-4f9d-a0b6-0d154fb78d28.logo1.png",
+    "splash": {
+      "image": "https://apis.soleet.my/fn/2019/11/25/064c119f-8ec2-4f9d-a0b6-0d154fb78d28.logo1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
